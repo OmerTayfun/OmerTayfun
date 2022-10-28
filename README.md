@@ -7,6 +7,8 @@
 [![GitHub](icons/github.png)](https://github.com/OmerTayfun)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/omrtyfn/)
 
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+
 
 
 
