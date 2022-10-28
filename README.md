@@ -1,4 +1,4 @@
-- ### Hi there 👋 I'm @OmerTayfun
+- ### Hi there 👋 I'm Ömer Tayfun
 - 👀 I’m interested in backend programming.
 - 🌱 I’m currently learning cyber security.
 - 📫 How to reach me Instagram or Linkedin.
