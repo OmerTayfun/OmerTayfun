@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning cyber security.
 - 📫 How to reach me Instagram or Linkedin.
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ömer-tayfun-deveçeker-6500928a/)
-[![GitHub](icons/github.png)](https://github.com/OmerTayfun)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/omrtyfn/)
+[![LinkedIn](icons/linkedin.png)] (https://www.linkedin.com/in/ömer-tayfun-deveçeker-6500928a/)
+[![GitHub](icons/github.png)] (https://github.com/OmerTayfun)
+[![Instagram](icons/instagram.png)] (https://www.instagram.com/omrtyfn/)
 
 
 
