@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omertayfun&label=Profile%20views&color=0e75b6&style=flat" alt="omertayfun" /> </p>
+
 <h1 align="center">Hi There👋, I'm Ömer Tayfun</h1>
 <h3 align="center">A passionate backend developer and cyber security student from Turkey</h3>
 
