@@ -2,17 +2,15 @@
   <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1710939798~exp=1710943398~hmac=5a464b5bc521036c80713d51e5eb95bad4c899f26f7b728dc451efe2860e44f1&w=740" alt="linux" width="325" height="325"/>
 </div>
 <h1 align="center">Hi There👋, I'm Ömer Tayfun</h1>
-<h3 align="center">A passionate backend developer and cyber security student from Turkey</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 
 
 - 🔭 I’m currently working on **Programming learning**
 
-- 🌱 I’m currently learning **C# , Python & Cyber Security Methodologies**
+- 🌱 I’m currently learning **C# , HTML & CSS**
 
 - 🤝 I’m looking for help with **Programming languages**
-
-- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **Instagram & Linkedin**
 
