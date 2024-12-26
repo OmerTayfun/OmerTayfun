@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Programming learning**
 
-- 🌱 I’m currently learning **C# , HTML & CSS**
+- 🌱 I’m currently learning **C# , HTML & CSS, Javascript**
 
 - 🤝 I’m looking for help with **Programming languages**
 
